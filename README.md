@@ -1,4 +1,6 @@
-# Η συμβολή της Τεχνητής Νοημοσύνης (Generative AI) στην Κυβερνοασφάλεια [For english](READEME.en.md)
+# Η συμβολή της Τεχνητής Νοημοσύνης (Generative AI) στην Κυβερνοασφάλεια [![Static Badge](https://img.shields.io/badge/For%20english-orange)](READEME.en.md)
+
+
 
 **Ομάδα**: Τροβία Δήμητρα (3200203), Φατσέα Ανθίππη (3190209)  
 
