@@ -1,4 +1,4 @@
-# Η συμβολή της Τεχνητής Νοημοσύνης (Generative AI) στην Κυβερνοασφάλεια [![Static Badge](https://img.shields.io/badge/For%20english-orange)](READEME.en.md)
+# Η συμβολή της Τεχνητής Νοημοσύνης (Generative AI) στην Κυβερνοασφάλεια [![Static Badge](https://img.shields.io/badge/English-orange)](READEME.en.md)
 
 
 
