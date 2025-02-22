@@ -1,5 +1,3 @@
----
-
 # The Contribution of Artificial Intelligence (Generative AI) to Cybersecurity
 **Group**: Trovia Dimitra (3200203), Fatsea Anthippi (3190209)
 
