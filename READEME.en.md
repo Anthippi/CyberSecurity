@@ -40,14 +40,14 @@ However, its use raises ethical concerns and risks, as it can be exploited by ma
   - **Findings**: Models recognize ethical boundaries but remain vulnerable to targeted prompts without "trigger words."
 
 ### 4. Solutions & Future Prospects
--Ethical Design:
-  -Transparency, legal data collection, and privacy protection.
+- **Ethical Design**:
+  - Transparency, legal data collection, and privacy protection.
 - **Regular Retraining**:
-  -To address emerging threats and maintain accuracy.
+  - To address emerging threats and maintain accuracy.
 - **Defensive Applications**:
-  -Anomaly detection, threat prioritization, and automated data analysis.
+  - Anomaly detection, threat prioritization, and automated data analysis.
 - **Defense vs. Offense**:
-  -70% of CISOs believe Generative AI is more useful for attacks, but its defensive use is rising.
+  - 70% of CISOs believe Generative AI is more useful for attacks, but its defensive use is rising.
 
 ---
 
